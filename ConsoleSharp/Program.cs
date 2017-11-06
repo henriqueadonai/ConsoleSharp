@@ -11,6 +11,9 @@ namespace ConsoleSharp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("bom dia");
+            Console.Write("Boa tarde");
+            Console.ReadLine();
         }
     }
 }
