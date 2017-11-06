@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BackToBasics\Const_ReadOnly.cs" />
+    <Compile Include="BackToBasics\Enumeration.cs" />
     <Compile Include="BackToBasics\Sharp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

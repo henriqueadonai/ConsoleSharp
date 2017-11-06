@@ -1,4 +1,5 @@
 ﻿
+using ConsoleSharp.BackToBasics;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,10 @@ namespace ConsoleSharp
             Console.WriteLine("bom dia");
             Console.Write("Boa tarde");
             Console.ReadLine();
+            var enumee = new Enumeration();
+            enumee.LoopEnumGetNames();
+            enumee.LoopEnumGetValues();
+
         }
     }
 }
