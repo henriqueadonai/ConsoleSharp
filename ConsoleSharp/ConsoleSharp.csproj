@@ -42,9 +42,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="5NETStandard\InMemory.cs" />
+    <Compile Include="5NETStandard\xUnitTest.cs" />
     <Compile Include="BackToBasics\Const_ReadOnly.cs" />
     <Compile Include="BackToBasics\Enumeration.cs" />
     <Compile Include="BackToBasics\Sharp.cs" />
+    <Compile Include="HiddensVS_Features\Diff1.cs" />
+    <Compile Include="HiddensVS_Features\Diff2.cs" />
+    <Compile Include="HiddensVS_Features\Hidden.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
