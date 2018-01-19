@@ -50,6 +50,7 @@
     <Compile Include="HiddensVS_Features\Diff1.cs" />
     <Compile Include="HiddensVS_Features\Diff2.cs" />
     <Compile Include="HiddensVS_Features\Hidden.cs" />
+    <Compile Include="MistakeDates\CalculatingDuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
